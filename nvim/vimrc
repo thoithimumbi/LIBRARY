@@ -1,0 +1,5 @@
+source ~/.config/nvim/options.vim
+source ~/.config/nvim/keybinds.vim
+source ~/.config/nvim/plugins.vim
+source ~/.config/nvim/fzf.vim
+source ~/.config/nvim/colors.vim
